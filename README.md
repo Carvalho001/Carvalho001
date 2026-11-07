@@ -8,9 +8,7 @@
 
 <img width="250" height="250" alt="image" src=https://github.com/user-attachments/assets/406cb190-863e-43b8-8b6b-da9ade9d8941 />
 
- 
 
-### Trainee de desenvolvimento mobile na TITAN
 
 *"Em busca de evolução e aprendizado contínuo, inovação e desenvolvimento profissional"*
 
@@ -26,9 +24,7 @@
 
 ## Sobre mim
 
-Sou apaixonado por tecnologia, artes(principalmente música e fotografia) e esportes, atuo como consultor tecnologico na EY, e o meu mais novo desafio é encarar o PT da TITAN
-
-Empresa Júnior de Engenharia de computação da UFBA.
+Sou apaixonado por tecnologia, artes(principalmente música e fotografia) e esportes, atuo como consultor tecnologico na EY.
 
  
 
@@ -119,36 +115,6 @@ Empresa Júnior de Engenharia de computação da UFBA.
  
 
 <img width="500" height="250" alt="image" src=https://github.com/user-attachments/assets/c27af201-2800-4bd3-9031-e14e57df8780 />
-
- 
-
- 
-
----
-
- 
-
-## Metas de aprendizado
-
- 
-
-*-Desenvolver base forte em dev mobile, com a linguagem Dart e a ferramenta flutter*
-
- 
-
-*-Aprofundar meus conhecimentos de dev front e back*
-
- 
-
-*-Fortalecer minhas capacidades de comunicação, e evoluir minha inteligência emocional e de cooperação junto aos colegas*
-
- 
-
-*-Sair da minha zona de conforto, aprendendo novas ferramentas e conhecimentos*
-
- 
-
-*-Contribuir para os mais variados projetos*
 
  
 
